@@ -19,6 +19,7 @@ Clone repo and install node module dependencies
 ## Usage
 Follow on-screen instructions, designating the text, text color, shape type, and shape color. The output will be found in the examples folder with the name logo.svg
 
+![demo gif](./code-demo-svg.gif)
 ## License
 This project is licenced under [MIT License](https://choosealicense.com/licenses/mit)
 
